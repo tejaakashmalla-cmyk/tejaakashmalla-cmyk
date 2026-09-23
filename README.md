@@ -1,55 +1,63 @@
 ﻿
 <div align="center">
 
-<img src="./assets/jarvis-core-v2-optimized.gif" width="100%" alt="AKASH JARVIS Engineering Console">
+<img src="./assets/akash-profile-core.gif" width="100%" alt="Akash Engineering System">
 
-<br>
+<br><br>
 
 # AKASH
 
-### AI | FULL STACK | SYSTEMS | BUILDER
+### AI • FULL STACK • SYSTEMS • BUILDER
 
 Building intelligent software, production-oriented applications and experimental systems.
 
 <br>
 
 <a href="https://github.com/tejaakashmalla-cmyk">
-<img src="https://img.shields.io/badge/GITHUB-00F5B4?style=for-the-badge&logo=github&logoColor=050b0a&labelColor=050b0a">
+<img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=08111A">
 </a>
 
 <a href="https://tejaakashmalla-cmyk.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-00F5B4?style=for-the-badge&logo=googlechrome&logoColor=050b0a&labelColor=050b0a">
+<img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08111A">
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5B4?style=for-the-badge&labelColor=050b0a">
-<img src="https://img.shields.io/badge/JARVIS-ACTIVE-00F5B4?style=for-the-badge&labelColor=050b0a">
-<img src="https://img.shields.io/badge/BUILD_MODE-ACTIVE-00F5B4?style=for-the-badge&labelColor=050b0a">
-<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20FULL%20STACK-00F5B4?style=for-the-badge&labelColor=050b0a">
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/BUILD-ACTIVE-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/AI-ENABLED-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/FULL_STACK-ONLINE-00D9FF?style=for-the-badge&labelColor=08111A">
 
 </div>
 
 ---
 
-# JARVIS CORE
+# ABOUT
+
+I am a B.Tech IT engineer focused on building software rather than only learning about it.
+
+My work sits around:
 
 ```text
-+------------------------------------------------------------------+
-|                    JARVIS CORE // ONLINE                         |
-+------------------------------------------------------------------+
-|                                                                  |
-|  OPERATOR        AKASH                                           |
-|  ROLE            B.Tech IT Engineer                              |
-|  PRIMARY         Full-Stack Engineering                          |
-|  SECONDARY       AI / Automation / Systems                       |
-|  CURRENT MODE    BUILD                                           |
-|  STATUS          [ ONLINE ]                                      |
-|                                                                  |
-|  SYSTEM OBJECTIVE                                                 |
-|  Turn ideas into useful software.                                |
-|                                                                  |
-|  CORE DIRECTIVE                                                   |
-|  BUILD -> TEST -> DEPLOY -> OBSERVE -> IMPROVE                    |
-|                                                                  |
-+------------------------------------------------------------------+
+AI
+│
+├── RAG
+├── LLM Applications
+├── Automation
+└── Voice AI
+
+FULL STACK
+│
+├── React
+├── Next.js
+├── Node.js
+├── FastAPI
+└── REST / WebSockets
+
+SYSTEMS
+│
+├── APIs
+├── Databases
+├── Cloud
+├── DevOps
+└── Observability
