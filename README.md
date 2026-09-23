@@ -1,10 +1,17 @@
-﻿<div align="center">
+﻿
+<div align="center">
 
-<img src="./assets/akash-profile-core.gif" width="100%" alt="Akash Engineering Profile">
+<img src="./assets/akash-profile-core.gif" width="100%" alt="Akash Engineering System">
 
-AKASH
-AI • FULL STACK • SYSTEMS
-B.Tech IT engineer building practical software across AI, web, backend and cloud.
+<br><br>
+
+# AKASH
+
+### AI • FULL STACK • SYSTEMS • BUILDER
+
+Building intelligent software, production-oriented applications and experimental systems.
+
+<br>
 
 <a href="https://github.com/tejaakashmalla-cmyk">
 <img src="https://img.shields.io/badge/GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=08111A">
@@ -14,63 +21,61 @@ B.Tech IT engineer building practical software across AI, web, backend and cloud
 <img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=08111A">
 </a>
 
-</div>
+<br><br>
 
-About
-I enjoy turning ideas into working products and learning by building.
-My main areas of interest are:
-AI — RAG, LLM applications, automation, voice AI
-Frontend — React, Next.js, TypeScript, HTML, CSS, Tailwind
-Backend — Node.js, Express, FastAPI, REST APIs, WebSockets
-Database — MongoDB, PostgreSQL, SQLite
-Cloud & Tools — Git, GitHub, Vercel, Render, VS Code
-Mobile — Flutter
-Tech Stack
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,nodejs,express,fastapi,mongodb,postgres,git,github,vscode,vercel,flutter&theme=dark">
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/BUILD-ACTIVE-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/AI-ENABLED-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/FULL_STACK-ONLINE-00D9FF?style=for-the-badge&labelColor=08111A">
 
 </div>
 
-Featured Projects
-FlowLens
-AI-powered software architecture intelligence platform that analyzes codebases, GitHub repositories, APIs, dependencies and technologies.
-Stack: React • Node.js • GitHub API
-SignalDesk
-Real-time incident command center for service health, incidents, telemetry and engineering workflows.
-Stack: React • Node.js • WebSockets
-DocuTrust
-Document intelligence and RAG platform for document processing, retrieval and AI interaction.
-Stack: React • FastAPI • Chroma
-WakeVoice
-Experimental voice-based alarm application with voice profiles, alarm scheduling and AI-generated wake messages.
-Stack: Flutter • FastAPI • Voice AI
-Right-One
-Product comparison application that searches products across multiple e-commerce websites and helps surface better-priced options.
-Stack: Flutter
-EchoShift
-Two-timeline 2D action platformer built around timeline switching, combat and enemy AI.
-Stack: JavaScript • Phaser
-Currently Learning
-AI Engineering
-Backend Systems
-Cloud & Deployment
-DevOps & Observability
-DSA & Problem Solving
-GitHub
-<div align="center">
+---
 
-<a href="https://github.com/tejaakashmalla-cmyk">
-<img src="https://img.shields.io/badge/VIEW_GITHUB-00D9FF?style=for-the-badge&logo=github&logoColor=white&labelColor=08111A">
-</a>
-
-
-
-
-Building • Learning • Improving
-</div>
+@'
+# ENGINEERING IDENTITY
 
 <div align="center">
 
-BUILD. LEARN. SHIP.
+<img src="./assets/engineering-identity.gif" width="100%" alt="Engineering Identity">
+
 </div>
+
+---
+
+<div align="center">
+
+### BUILDING SOFTWARE AT THE INTERSECTION OF AI, WEB AND SYSTEMS
+
+<img src="https://img.shields.io/badge/AI_ENGINEERING-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/FULL_STACK-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/SYSTEMS-00D9FF?style=for-the-badge&labelColor=08111A">
+<img src="https://img.shields.io/badge/AUTOMATION-00D9FF?style=for-the-badge&labelColor=08111A">
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## WHO I AM
+
+I am a B.Tech IT engineer focused on turning ideas into working software.
+
+I enjoy building across the stack — from interfaces and APIs to databases, cloud deployment and intelligent systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ENGINEERING MODE
+
+```text
+SYSTEM       ONLINE
+AI           ENABLED
+FULL STACK   ACTIVE
+CLOUD        BUILDING
+AUTOMATION   ACTIVE
+STATUS       READY
