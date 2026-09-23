@@ -32,7 +32,7 @@ Building intelligent software, production-oriented applications and experimental
 
 ---
 
-@'
+
 # ENGINEERING IDENTITY
 
 <div align="center">
@@ -45,7 +45,7 @@ Building intelligent software, production-oriented applications and experimental
 
 <div align="center">
 
-### BUILDING SOFTWARE AT THE INTERSECTION OF AI, WEB AND SYSTEMS
+### BUILDING SMART SYSTEMS — BECAUSE "SOMEONE ELSE WILL BUILD IT" WASN'T CONVINCING
 
 <img src="https://img.shields.io/badge/AI_ENGINEERING-00D9FF?style=for-the-badge&labelColor=08111A">
 <img src="https://img.shields.io/badge/FULL_STACK-00D9FF?style=for-the-badge&labelColor=08111A">
