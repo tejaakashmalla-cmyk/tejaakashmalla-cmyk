@@ -4,7 +4,7 @@
 
 # AKASH
 
-### AI â€¢ FULL STACK â€¢ SYSTEMS â€¢ BUILDER
+### AI | FULL STACK | SYSTEMS | BUILDER
 
 Building AI systems, full-stack applications, developer tools and experimental software.
 
@@ -28,9 +28,11 @@ Building AI systems, full-stack applications, developer tools and experimental s
 â”‚  PRIMARY        Full-Stack Engineering                    â”‚
 â”‚  SECONDARY      AI / Automation / Systems                 â”‚
 â”‚  CURRENT MODE   BUILD                                     â”‚
-â”‚  STATUS         â— ONLINE                                  â”‚
+â”‚  STATUS         â- ONLINE                                  â”‚
 â”‚                                                           â”‚
 â”‚  "Sometimes you gotta run before you can walk."          â”‚
 â”‚                                      â€” Tony Stark          â”‚
 â”‚                                                           â”‚
 â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
+
+
