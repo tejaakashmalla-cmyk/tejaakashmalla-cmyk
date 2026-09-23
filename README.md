@@ -1,10 +1,10 @@
-<div align="center">
+﻿<div align="center">
 
-<img src="./assets/jarvis-core.svg" width="100%">
+<img src="https://raw.githubusercontent.com/tejaakashmalla-cmyk/tejaakashmalla-cmyk/main/assets/jarvis-core.svg" width="100%">
 
 # AKASH
 
-### AI • FULL STACK • SYSTEMS • BUILDER
+### AI â€¢ FULL STACK â€¢ SYSTEMS â€¢ BUILDER
 
 Building AI systems, full-stack applications, developer tools and experimental software.
 
@@ -16,21 +16,21 @@ Building AI systems, full-stack applications, developer tools and experimental s
 
 ---
 
-## ⚡ JARVIS CORE
+## âš¡ JARVIS CORE
 
 ```text
-┌───────────────────────────────────────────────────────────┐
-│                    JARVIS CORE ONLINE                    │
-├───────────────────────────────────────────────────────────┤
-│                                                           │
-│  OPERATOR       AKASH                                     │
-│  ROLE           B.Tech IT Engineer                        │
-│  PRIMARY        Full-Stack Engineering                    │
-│  SECONDARY      AI / Automation / Systems                 │
-│  CURRENT MODE   BUILD                                     │
-│  STATUS         ● ONLINE                                  │
-│                                                           │
-│  "Sometimes you gotta run before you can walk."          │
-│                                      — Tony Stark          │
-│                                                           │
-└───────────────────────────────────────────────────────────┘
+â”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”
+â”‚                    JARVIS CORE ONLINE                    â”‚
+â”œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”¤
+â”‚                                                           â”‚
+â”‚  OPERATOR       AKASH                                     â”‚
+â”‚  ROLE           B.Tech IT Engineer                        â”‚
+â”‚  PRIMARY        Full-Stack Engineering                    â”‚
+â”‚  SECONDARY      AI / Automation / Systems                 â”‚
+â”‚  CURRENT MODE   BUILD                                     â”‚
+â”‚  STATUS         â— ONLINE                                  â”‚
+â”‚                                                           â”‚
+â”‚  "Sometimes you gotta run before you can walk."          â”‚
+â”‚                                      â€” Tony Stark          â”‚
+â”‚                                                           â”‚
+â””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜
