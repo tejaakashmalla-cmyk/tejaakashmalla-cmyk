@@ -124,7 +124,8 @@ CAPABILITY MATRIX
 
 </table>
 
-TECH STACK
+<div align="center">\n\n<img src="./assets/capability-signal.gif" width="100%" alt="Capability Signal">\n\n</div>\n\n---\n\n# TECH STACK
+
 <div align="center">
 
 LANGUAGES
@@ -200,7 +201,8 @@ PROJECT ARCHITECTURE
                     +------+------+
                            |
                            +-----------> REPEAT
-SELECTED BUILDS
+<div align="center">\n\n<img src="./assets/project-signal.gif" width="100%" alt="Project Signal">\n\n</div>\n\n---\n\n# SELECTED BUILDS
+
 <div align="center">
 
 REAL PROJECTS • REAL SYSTEMS • REAL EXPERIMENTS
@@ -402,7 +404,8 @@ Mode: BUILD • TEST • LEARN
 
 </div>
 
-CURRENT WORKSPACE
+<div align="center">\n\n<img src="./assets/workspace-telemetry.gif" width="100%" alt="Workspace Telemetry">\n\n</div>\n\n---\n\n# CURRENT WORKSPACE
+
 +--------------------------------------------------------------+
 |                     CURRENT OPERATIONS                       |
 +--------------------------------------------------------------+
