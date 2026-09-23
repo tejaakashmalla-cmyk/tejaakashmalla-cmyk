@@ -37,9 +37,15 @@ Building intelligent software, production-oriented applications and experimental
 
 <div align="center">
 
-### BUILDING SOFTWARE AT THE INTERSECTION OF AI, WEB AND SYSTEMS
+<img src="./assets/engineering-identity.gif" width="100%" alt="Engineering Identity">
 
-<br>
+</div>
+
+---
+
+<div align="center">
+
+### BUILDING SOFTWARE AT THE INTERSECTION OF AI, WEB AND SYSTEMS
 
 <img src="https://img.shields.io/badge/AI_ENGINEERING-00D9FF?style=for-the-badge&labelColor=08111A">
 <img src="https://img.shields.io/badge/FULL_STACK-00D9FF?style=for-the-badge&labelColor=08111A">
@@ -52,31 +58,24 @@ Building intelligent software, production-oriented applications and experimental
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ## WHO I AM
 
 I am a B.Tech IT engineer focused on turning ideas into working software.
 
-My approach is simple:
+I enjoy building across the stack — from interfaces and APIs to databases, cloud deployment and intelligent systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+## ENGINEERING MODE
 
 ```text
-IDEA
-  |
-  v
-DESIGN
-  |
-  v
-BUILD
-  |
-  v
-TEST
-  |
-  v
-DEPLOY
-  |
-  v
-OBSERVE
-  |
-  v
-IMPROVE
+SYSTEM       ONLINE
+AI           ENABLED
+FULL STACK   ACTIVE
+CLOUD        BUILDING
+AUTOMATION   ACTIVE
+STATUS       READY
