@@ -62,7 +62,7 @@ Building intelligent software, production-oriented applications and experimental
 
 ## WHO I AM
 
-B.Tech IT engineer and builder who enjoys turning ideas into real software.
+A B.Tech IT engineer and builder who enjoys turning ideas into real software.
 
 I work across AI, full-stack development, backend systems and cloud — learning by building, breaking and improving.
 
